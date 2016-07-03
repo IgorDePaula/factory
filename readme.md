@@ -20,3 +20,5 @@ Implementação
 
 * classes abstratas que postergam a criação de objetos para suas subclasses;
 * classes com métodos fábricas parametrizados, permitindo que um único método fpabrica possa criar múltiplos objetos produto (uma variação também do padroão strategy).
+
+![Class Diagram Factory](https://github.com/IgorDePaula/factory/blob/master/docs/Class%20Diagram%20Factory.png)
